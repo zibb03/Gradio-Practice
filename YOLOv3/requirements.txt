@@ -1,0 +1,6 @@
+opencv-python
+gradio
+random
+colorsys
+numpy
+tensorflow
